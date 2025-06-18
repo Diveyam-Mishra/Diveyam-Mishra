@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://diveyamportfolio.netlify.app/](https://diveyamportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@mishradiveyam](https://medium.com/@mishradiveyam)
+- 📝 I sometimes write articles on [https://medium.com/@mishradiveyam](https://medium.com/@mishradiveyam)
 
 - 💬 Ask me about **Python, Machine Learning,Backend**
 
